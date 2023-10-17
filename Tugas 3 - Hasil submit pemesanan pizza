@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body bgcolor="FFE4C4"></body>
+<title>Thanks a lot</title>
+</head>
+<body>
+      <h1><center>Thank you for order!</center></h1>
+      <hr>
+   <p> Once again, thank you for your ordering from Black Goose Bistro. We have revecived the following information about your order </p>
+   <hr>
+   <h2> Your Information </h2>
+   <p> Name : Sachio Withmore </p>
+   <p> Telphone : 112627979 </p>
+   <p> Email : Caccioo12@gmail.com </p>
+   <p><b> Delivery Intruction : </b> Please text me when the courier is in front of my home. </p>
+   <h2> Your Pizza </h2>
+   <p><b> Crust : </b> Multigrain </p>
+   <p><b> Toppings : </b> Mozzarella, Red Sauce and Pepperoni </p>
+   <p><b>Number : </b> 1 </p>
+   <hr>
+      
+</body>
+</html>
